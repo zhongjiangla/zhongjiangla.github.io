@@ -1,0 +1,17 @@
+{
+  "name": "双色球模拟匹配系统",
+  "short_name": "模拟匹配",
+  "description": "基于组合数学的号码模拟匹配娱乐产品",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
